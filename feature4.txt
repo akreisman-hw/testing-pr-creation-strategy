@@ -1,2 +1,3 @@
 FEATURE4
+test was added
 ADD
